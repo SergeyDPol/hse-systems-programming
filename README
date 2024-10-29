@@ -3,4 +3,8 @@ Author: Sergey Polukhin
 This repo contains my solutions to the homework assignments
 for the "C/C++ programming on linux" course.
 
-The repo currently contains no solutions.
+The repo contains the solutions to the following tasks:
+- filestat
+
+In order to compile all the solutions run `make all`.
+To compile the solution to a specific task run `make *task_name*`
