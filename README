@@ -6,6 +6,7 @@ for the "C/C++ programming on linux" course.
 The repo contains the solutions to the following tasks:
 - filestat
 - hide
+- nohup
 
 In order to compile all the solutions run `make all`.
 To compile the solution to a specific task run `make *task_name*`
