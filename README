@@ -8,6 +8,7 @@ The repo contains the solutions to the following tasks:
 - hide
 - nohup
 - execarg
+- udpchat
 
 In order to compile all the solutions run `make all`.
 To compile the solution to a specific task run `make *task_name*`
